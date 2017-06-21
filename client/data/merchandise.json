@@ -1,0 +1,11 @@
+[
+  {"category": "Watersports", "desc": "A boat for one person", "name": "Kayak", "price": 275, "id": "1"},
+  {"category": "Watersports", "desc": "Protective and fashionable", "name": "Lifejacket", "price": 48.95, "id": "2"},
+  {"category": "Soccer", "desc": "FIFA-approved size and weight", "name": "Soccer Ball", "price": 19.5, "id": "3"},
+  {"category": "Soccer", "desc": "Give your playing field a professional touch", "name": "Corner Flags", "price": 45.95, "id": "4"},
+  {"category": "Soccer", "desc": "Flat-packed 35,000-seat stadium", "name": "Stadium", "price": 79500, "id": "5"},
+  {"category": "Chess", "desc": "Improve your brain efficiency by 75%", "name": "Thinking Cap", "price": 16, "id": "6"},
+  {"category": "Chess", "desc": "Secretly give your opponent a disadvantage", "name": "Unsteady Chair", "price": 29.95, "id": "7"},
+  {"category": "Chess", "desc": "A fun game for the family", "name": "Human Chess Board", "price": 75, "id": "8"},
+  {"category": "Chess", "desc": "Gold-plate", "name": "King", "price": 1200, "id": "9"}
+]
